@@ -40,7 +40,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/btn_relative"
         app:orientation="horizontal"
-        app:columnCount="3">
+        app:columnCount="3"
+        android:id="@+id/android.support.v7.widget.GridLayout">
         <Button
             style="?android:attr/buttonStyleSmall"
             android:layout_width="wrap_content"
