@@ -24,6 +24,10 @@
             android:name=".RelativeActivity"
             android:label="@string/title_activity_relative" >
         </activity>
+        <activity
+            android:name=".GridActivity"
+            android:label="@string/title_activity_grid" >
+        </activity>
     </application>
 
 </manifest>
