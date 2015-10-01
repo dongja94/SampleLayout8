@@ -28,6 +28,10 @@
             android:name=".GridActivity"
             android:label="@string/title_activity_grid" >
         </activity>
+        <activity
+            android:name=".FrameActivity"
+            android:label="@string/title_activity_frame" >
+        </activity>
     </application>
 
 </manifest>
